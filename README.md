@@ -20,7 +20,7 @@ Used KiCAD
 
 # Firmware
 
-Used QMK for the firmware. The numbers input any number that is pressed, and the lights light up everytime you press a button.
+Used KMK for the firmware. The numbers input any number that is pressed, and the lights light up everytime you press a button.
 
 # BOM
 
