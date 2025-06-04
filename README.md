@@ -2,11 +2,11 @@
 
 CalcuPad is a 10 key macropad that includes all the digits 0-9.
 
-It's very basic as it is my first build, but I guess you could say it has all the digits you every need.
+It's very basic as it is my first build, but I guess you could say it has all the digits you ever need.
 
 # CAD
 
-This macropad as two 3D printed layers, a top and a bottom, it is a very simple design, with some LED lights and 10 keys.
+This macropad has two 3D printed layers, a top and a bottom, it is a very simple design, with some LED lights and 10 keys.
 
 IMAGE HERE
 
