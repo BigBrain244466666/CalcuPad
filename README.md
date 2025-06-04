@@ -14,9 +14,9 @@ This macropad has two 3D printed layers, a top and a bottom, it is a very simple
 
 Used KiCAD
 
-IMAGE HERE
+![PCB](https://github.com/BigBrain244466666/CalcuPad/blob/main/CalcuPad/Images/PCB.png)
 
-IMAGE HERE
+![Schematic](https://github.com/BigBrain244466666/CalcuPad/blob/main/CalcuPad/Images/Schematic.png)
 
 # Firmware
 
