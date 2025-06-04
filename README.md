@@ -8,7 +8,7 @@ It's very basic as it is my first build, but I guess you could say it has all th
 
 This macropad has two 3D printed layers, a top and a bottom, it is a very simple design, with some LED lights and 10 keys.
 
-IMAGE HERE
+![CAD](https://github.com/BigBrain244466666/CalcuPad/blob/main/CalcuPad/Images/CAD.png)
 
 # PCB and Schematic
 
